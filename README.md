@@ -1,1 +1,3 @@
-# 2021_Team_023"# AOOP" 
+# 2021_Team_023"
+
+By Albert Campaña and David Vives

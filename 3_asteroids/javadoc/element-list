@@ -1,0 +1,16 @@
+nl.rug.aoop.asteroids
+nl.rug.aoop.asteroids.control
+nl.rug.aoop.asteroids.control.actions
+nl.rug.aoop.asteroids.control.commands
+nl.rug.aoop.asteroids.database
+nl.rug.aoop.asteroids.gameobserver
+nl.rug.aoop.asteroids.model
+nl.rug.aoop.asteroids.model.gameobjects
+nl.rug.aoop.asteroids.networking
+nl.rug.aoop.asteroids.networking.client
+nl.rug.aoop.asteroids.networking.dataCommand
+nl.rug.aoop.asteroids.networking.server
+nl.rug.aoop.asteroids.util
+nl.rug.aoop.asteroids.view
+nl.rug.aoop.asteroids.view.panels
+nl.rug.aoop.asteroids.view.viewmodels
